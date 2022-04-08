@@ -1,0 +1,48 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  /* background-color: rgb(121, 113, 113); */
+}
+
+.title {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.nav-links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-links ul {
+  display: flex;
+}
+
+.nav-links ul li {
+  margin-left: 25px;
+}
+
+.nav-links a:hover {
+  color: rgb(238, 197, 197);
+}
+
+/* .title {
+  margin-left: 10%;
+} */
+
+/* .nav-links {
+  margin-right: 10%;
+}
+
+div.nav-links button {
+  all: unset;
+  font-weight: bold;
+} */

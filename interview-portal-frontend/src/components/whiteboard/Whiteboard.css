@@ -1,0 +1,23 @@
+.whiteboard-title {
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+  color: rgb(251, 255, 0);
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin: 25px;
+}
+
+.toolname {
+  font-size: 12px;
+}
+
+.tool:hover {
+  color: red;
+}
